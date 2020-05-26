@@ -6,6 +6,7 @@ target 'TestDemoCICD' do
   use_frameworks!
   
   pod 'SDWebImage'
+  pod 'AppCenter'
 
   # Pods for TestDemoCICD
 

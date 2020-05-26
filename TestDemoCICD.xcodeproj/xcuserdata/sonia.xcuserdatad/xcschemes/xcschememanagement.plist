@@ -3,6 +3,30 @@
 <plist version="1.0">
 <dict>
 	<key>SchemeUserState</key>
-	<dict/>
+	<dict>
+		<key>TestDemoCICD.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>E390B7FB247CDC1100FDC4DB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E390B811247CDC1200FDC4DB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E390B81C247CDC1200FDC4DB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
 </dict>
 </plist>
